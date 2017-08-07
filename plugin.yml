@@ -1,0 +1,14 @@
+name: ExoHub
+version: 1.0
+author: Ekinoxx
+main: com.ExoMates.Hub.Hub
+
+commands:
+  Lobby:
+    description: Lobby
+  Hub:
+    description: Hub
+  Admin:
+    description: Admin
+  McPing:
+    description: McPing
